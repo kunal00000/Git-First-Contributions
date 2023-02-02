@@ -1,4 +1,11 @@
-## Add your names, achivements, and github profile in first-contributors folder. 
+## Add your names, introduction, and github profile in first-contributors folder.
+1. Create a json file `(<yourname>.json)` in the first-contributions folder
+<img width="193" alt="Screenshot 2023-02-02 at 10 38 58 PM" src="https://user-images.githubusercontent.com/92316166/216393752-b3fef1f6-24c2-4973-9fd8-21ce385cee9e.png">
+
+2. Add your information in the file following the below format.
+ <img width="692" alt="Screenshot 2023-02-02 at 10 43 58 PM" src="https://user-images.githubusercontent.com/92316166/216394875-1dd6ef68-1b05-4333-b46f-65b906e6cab5.png">
+
+----
 ## Forking Repository 
 1. On [GitHub.com](https://github.com/), navigate to the [Git-First-Contributions](https://github.com/kunal00000/Git-First-Contributions) repository.
 2. In the top-right corner of the page, click Fork.
@@ -9,6 +16,8 @@
 <img width="738" alt="Screenshot 2023-02-02 at 9 50 58 PM" src="https://user-images.githubusercontent.com/92316166/216383256-2857ec5b-881f-4931-bd3a-3ad03f161bcb.png">
 5. Click Create fork.
 <img width="149" alt="Screenshot 2023-02-02 at 9 51 16 PM" src="https://user-images.githubusercontent.com/92316166/216383983-1252a44a-1e4d-4b3c-86fb-d92870faa294.png">
+
+----
 
 ## Cloning repository into Visual Studio Code
 1. Open a new window in VS-Code
